@@ -31,7 +31,7 @@ int main(){
 	int u,l,m,k ; 
 	l=0 ; 
 	u=n-1;
-	cout << "\n enter the element to search ";
+	cout << "\n enter the element to search in the array ";
 	cin >> k ; 
 	while(l<=u){
 		m=(l+u)/2 ; 
